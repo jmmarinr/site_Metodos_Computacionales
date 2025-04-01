@@ -6,9 +6,7 @@ url: https://just-the-docs.github.io
 
 
 
-logo: "docs/images/logo.png"
-
-color_scheme: dark
+#logo: "docs/images/logo.png"
 
 ---
 search_enabled: true
