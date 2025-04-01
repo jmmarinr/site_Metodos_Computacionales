@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Métodos Computacionales
 layout: home
 ---
 
