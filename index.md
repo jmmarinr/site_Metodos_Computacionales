@@ -4,13 +4,10 @@ layout: default
 nav_order: 1
 ---
 
-# Recursos
-
-**Computational Methods for Physics & Astronomy**. Sebastián Bustamante & Diego Restrepo, 2017.
+# Libros
 
 [Libro guia](https://restrepo.github.io/ComputationalMethods/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
----
 
 **Python Programming And Numerical Methods: A Guide For Engineers And Scientists**. Qingkai Kong, Timmy Siauw, Alexandre Bayen
 2020.
@@ -32,4 +29,3 @@ nav_order: 1
 
 
 # Guía github
-
