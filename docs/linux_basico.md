@@ -8,6 +8,8 @@ nav_order: 6
 
 Esta guía contiene los comandos más comunes y útiles de la terminal de Linux.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gd7BXuUQ91w?si=eXAmD7J8P1j1-gnx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Navegación y Gestión de Archivos
 
 ```bash
