@@ -8,6 +8,10 @@ nav_order: 5
 
 Esta guía contiene los comandos más comunes y útiles de Git para el control de versiones.
 
+{
+  "markdown.editor.filePaste.videoSnippet": "[![Video Title](https://img.youtube.com/vi/${src}/0.jpg)](${src})"
+}
+
 ## Configuración Inicial
 
 ```bash
