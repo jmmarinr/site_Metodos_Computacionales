@@ -23,3 +23,5 @@ nav_order: 1
 
 
 # Guía github
+
+<embed src="docs/Guía Github.pdf" type="application/pdf" width="100%" height="600px" />
