@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Cronograma
-parent: Contenido
-nav_order: 1
+parent: Objetivos
+nav_order: 3
 ---
 
 

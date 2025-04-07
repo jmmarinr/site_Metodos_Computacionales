@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Evaluaciones
-nav_order: 4
+parent: Objetivos
+nav_order: 2
 ---
 
 
@@ -26,21 +27,21 @@ La evaluación está diseñada para fomentar en el estudiante el cuestionamiento
 |Tareas (Hasta dos actividades semanales)|	 20%|
 |Laboratorios  (Hasta 12 laboratorios)	| 20%
 |Proyecto : Anteproyecto, Exposición, Desarrolo     |20%|
-|3 Parciales 	 |40%|
+|2 Parciales 	 |40%|
 
 
 
 |Evaluación| Unidades|
 |----|-------|
-|1| 10%	 Unidad 1, 2|
-|2| 15% Unidad 1, 2, 3, 4 |
-|3| 15% Todo el curso|
+|1| 20%	 Unidad 2, 3 y 4|
+|2| 20% Unidad 5, 6 y 7 |
+
 
 
 
 # Proyecto
 
-El proyecto se realizará máximo  parejas, deberá existir un anteproyecto discutivo previamente con el profesor, en el anteproyecto se deberá especificar el objetivo central del proyecto y tres objetivos específicos, se entregará la semana número 12 del curso a través del git hub en el formato suministrado por el profesor. Al final de semestre se realizará una exposicion del proyecto con todos los compañeros, duración de exposición máximo 10min. 
+El proyecto se realizará máximo  parejas, deberá existir un anteproyecto discutivo previamente con el profesor, en el anteproyecto se deberá especificar el objetivo central del proyecto y tres objetivos específicos, se entregará la **semana número 12 del curso a través del github en el formato suministrado por el profesor**. Al final de semestre se realizará una exposicion del proyecto con todos los compañeros, duración de exposición máximo 10min. 
 
 
 |Objetivo| Metodología|
