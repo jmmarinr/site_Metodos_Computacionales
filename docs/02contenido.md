@@ -15,13 +15,14 @@ nav_order: 1
     - Numpy y rutinas de graficación. 
     
     - Operaciones aritméticas con reales y complejos.
-    
-    - Números aleatorios, método del congruente lineal y problemas.
+
+2. Aritmética computacional y errores
+    - Representación numérica y complejidad.
     
     - Errores: redondeo, truncamiento, sustracción cancelativa, precisión
     de la máquina.
 
-2. Ecuaciones de una variable.
+3. Ecuaciones de una variable.
 
     - Algoritmo de la bisección.
     
@@ -34,7 +35,7 @@ nav_order: 1
     - Ecuaciones trascendentales.
 
 
-3. Métodos de interpolación
+4. Métodos de interpolación
 
     - Interpolación lineal.
     - Polinomio de Lagrange, problemas que conlleva, y soluciones.
@@ -43,7 +44,7 @@ nav_order: 1
     - Interpolación con splines cúbicos.
 
 
-4. Cálculo numérico
+5. Cálculo numérico
 
     - Diferenciación numérica, método de la diferencia hacia adelante y
     de la diferencia central, segundas derivadas numéricas, errores.
@@ -53,7 +54,7 @@ nav_order: 1
     - Integrales impropias.
     - Integrales múltiples.
 
-5. Álgebra lineal numérica
+6. Álgebra lineal numérica
 
     - Solución de Sistemas de ecuaciones lineales.
     - Matrices transpuesta, conjugada, hermítica, inversa.
@@ -62,7 +63,7 @@ nav_order: 1
     - Autovalores y autofunciones.
 
 
-6. Ecuaciones diferenciales
+7. Ecuaciones diferenciales
 
     - Problemas con condiciones iniciales.
     - Métodos de primer orden: método de Euler.
@@ -72,7 +73,7 @@ nav_order: 1
     - Problemas con condiciones frontera.
 
 
-7. Estadistica
+8. Estadistica
 
     - Generación de números aleatorios con distribuciones normal,
     - gaussiana y exponencial decreciente.

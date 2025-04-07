@@ -6,7 +6,7 @@ nav_order: 2
 
 # Descripción
 
-El curso de Métodos Computalscionales tiene propósito fundamental la introducción de
+El curso de Métodos Computacionales tiene propósito fundamental la introducción de
 métodos numéricos ampliamente usados en Física y Astronomía. Estos temas son
 abordados desde un contexto formal pero manteniendo una fuerte componente práctica y
 computacional, ilustrando además algunas aplicaciones en problemas de interés actual.
@@ -68,15 +68,4 @@ Conocer las capacidades del lenguaje Python y de programas que se puedeninstalar
 etc. Hay alrededor de 40 000 aplicaciones que se pueden instalar en el Python.  Manejar diferentes rutinas numéricas en las que se debe conocer los datos de entrada, lo que la rutina produce y los posibles errores involucrados.
 Solucionar problemas semejantes a los expuestos en clase con los mismos métodos numéricos.
 
-<!-- 
 
----
-
-View this site's [\_config.yml](https://github.com/just-the-docs/just-the-docs/tree/main/_config.yml) file as an example.
-
-## Site logo
-
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-``` -->
