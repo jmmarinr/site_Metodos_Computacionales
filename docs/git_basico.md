@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Git Básico
-nav_order: 5
+parent: Recursos
+nav_order: 2
 ---
 
 # Comandos Básicos de Git

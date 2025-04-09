@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Contenido
-parent: Objetivos
 nav_order: 1
 ---
 

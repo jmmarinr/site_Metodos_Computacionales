@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cronograma
-parent: Objetivos
+parent: Contenido
 nav_order: 3
 ---
 

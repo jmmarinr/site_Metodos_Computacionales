@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Evaluaciones
-parent: Objetivos
+parent: Contenido
 nav_order: 2
 ---
 

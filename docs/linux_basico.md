@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Linux Básico
-nav_order: 6
+parent: Recursos
+nav_order: 1
 ---
 
 # Comandos Básicos de Linux
