@@ -13,7 +13,7 @@ Profesor: Juan Marcos Marín
 Taller: Daniel Ruiz
 
 ---
-{: .Importante }
+{: .important }
 > Esta sección se actualizará con los recursos del curso.
 
 # Libros
