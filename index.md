@@ -1,8 +1,20 @@
 ---
 title: Recursos
 layout: default
-nav_order: 2
+nav_order: 1
 ---
+
+# Métodos Computacionales
+
+Semestre: 2025-1
+---
+Profesor: Juan Marcos Marín 
+
+Taller: Daniel Ruiz
+
+---
+{: .aviso }
+> Esta sección se actualizará con los recursos del curso.
 
 # Libros
 
