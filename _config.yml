@@ -24,6 +24,3 @@ callouts:
   warning:
     title: Importante
     color: red
-  aviso:
-    title: Atención
-    color: orange
