@@ -6,8 +6,7 @@ nav_order: 3
 ---
 
 # Cronograma de Actividades 2025-1
-
-![Calendario Académico](image.png)
+*Puede estar sujeto a cambios*
 
 ---
 
@@ -50,6 +49,11 @@ nav_order: 3
 
 
 
-### Anteproyecto
+## Anteproyecto
 
-**Semana 12: Entrega de documento**
+<span style="color:green">*Entrega durante la semana 12*.</span>
+
+
+## Calendario Académico
+
+![Calendario Académico](image.png)
