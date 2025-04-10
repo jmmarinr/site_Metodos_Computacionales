@@ -4,13 +4,9 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
-
-
 #logo: "docs/images/logo.png"
 
----
 search_enabled: true
----
 
 callouts_level: quiet # or loud
 callouts:
