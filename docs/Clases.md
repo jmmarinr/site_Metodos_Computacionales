@@ -4,6 +4,7 @@ title: Clases
 nav_order: 3
 ---
 
+{: .warning }
 > Esta sección se actualizará con las clases, actividades y laboratorios del curso. Debe estar atento a las fechas de entrega.
 
 # Unidad 1: Introducción a Python

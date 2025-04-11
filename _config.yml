@@ -25,8 +25,4 @@ callouts:
     title: Importante
     color: red
 
-color_scheme:
-  primary: "blue"
-  secondary: "orange"
-  accent: "purple"
-  neutral: "gray"
+color_scheme: light
