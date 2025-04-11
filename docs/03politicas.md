@@ -26,15 +26,16 @@ La evaluación está diseñada para fomentar en el estudiante el cuestionamiento
 |----|-------|
 |Tareas (Hasta dos actividades semanales)|	 20%|
 |Laboratorios  (Hasta 12 laboratorios)	| 20%
-|Proyecto : Anteproyecto, Exposición, Desarrolo     |20%|
-|2 Parciales 	 |40%|
+|Proyecto : Anteproyecto, Exposición, Desarrolo     |30%|
+|3 Parciales 	 |30%|
 
 
 
 |Evaluación| Unidades|
 |----|-------|
-|1| 20%	 Unidad 2, 3 y 4|
-|2| 20% Unidad 5, 6 y 7 |
+|1| 10%	 Unidad 1, 2 y 3|
+|2| 10% Unidad 4 y 5|
+|3| 10% Unidad 6, 7 y 8|
 
 
 

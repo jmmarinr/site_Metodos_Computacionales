@@ -24,3 +24,9 @@ callouts:
   warning:
     title: Importante
     color: red
+
+color_scheme:
+  primary: "blue"
+  secondary: "orange"
+  accent: "purple"
+  neutral: "gray"
