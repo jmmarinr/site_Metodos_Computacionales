@@ -13,6 +13,10 @@ nav_order: 3
 
 * 📜 [Introducción a Numpy](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Librerias/Introduccion_a_NumPy.ipynb)
 
+* 📜 [Introducción a Matplotlib](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Librerias/Introudccion_Matplotlib.ipynb)
+
+* 📜 [Introducción a Pandas](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Librerias/Introduccion_a_Pandas.ipynb)
+
 
 
 ---
