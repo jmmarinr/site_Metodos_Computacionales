@@ -9,15 +9,19 @@ nav_order: 3
 
 # Unidad 1: Introducción a Python
 
-* [Conceptos básicos de Python](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Basics/B%C3%A1sicos.ipynb)
+* 📜 [Conceptos básicos de Python](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Basics/B%C3%A1sicos.ipynb) 
+
+* 📜 [Introducción a Numpy](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Librerias/Introduccion_a_NumPy.ipynb)
 
 
 
 ---
 ## Actividad 1
 
-* [Actividad 1](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Basics/Actividad_PythonB%C3%A1sico.ipynb)
+* ⚠️ [Actividad 1](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Basics/Actividad_PythonB%C3%A1sico.ipynb)
 
 ---
 
 # Unidad 2: Representación númerica y errores
+
+
