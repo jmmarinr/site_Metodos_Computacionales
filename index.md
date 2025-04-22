@@ -7,13 +7,15 @@ nav_order: 1
 # Métodos Computacionales
 
 Semestre: 2025-1
----
-Profesor: Juan Marcos Marín 
 
-Taller: Daniel Ruiz
+---
+> Profesor: Juan Marcos Marín 
+
+> Taller: Daniel Ruiz
+
 ---
 
-{: .warning }
+{: .important }
 > Esta sección se actualizará con los recursos del curso.
 
 # Libros
