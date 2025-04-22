@@ -26,6 +26,8 @@ nav_order: 3
 
 * ⚠️ [Actividad 2: Modelación y uso de librerias](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Librerias/Actividad02_Librerias.ipynb)
 
+[Enlace alternativo](https://github.com/jmmarinr/ComputationalMethods/blob/master/Librerias/Actividad02_Librerias.ipynb)  Actividad 02
+
 ---
 
 # Unidad 2: Representación númerica y errores
