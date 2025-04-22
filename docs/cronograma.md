@@ -6,6 +6,7 @@ nav_order: 3
 ---
 
 # Cronograma de Actividades 2025-1
+
 {: .important }
 > Puede estar sujeto a cambios
 

@@ -11,8 +11,8 @@ Semestre: 2025-1
 Profesor: Juan Marcos Marín 
 
 Taller: Daniel Ruiz
-
 ---
+
 {: .warning }
 > Esta sección se actualizará con los recursos del curso.
 
