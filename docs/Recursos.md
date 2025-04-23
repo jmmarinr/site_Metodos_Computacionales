@@ -22,4 +22,8 @@ nav_order: 2
 
 # Guía entregas GitHub
 
-<embed src="docs/Guía Github.pdf" type="application/pdf" width="100%" height="600px" />
+<object data="../docs/Guia_Github.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Tu navegador no puede mostrar PDFs directamente. 
+    <a href="../docs/Guia_Github.pdf">Descarga el PDF</a> para verlo.</p>
+</object>
+
