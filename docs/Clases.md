@@ -32,4 +32,4 @@ nav_order: 3
 
 # Unidad 2: Representación númerica y errores
 
-
+* 📓 [Representación númerica](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Numeros_Errores/Representaci%C3%B3n_n%C3%BAmerica.ipynb)
