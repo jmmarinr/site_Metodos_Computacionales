@@ -19,9 +19,9 @@ nav_order: 3
 | 2      | 22/04    | 1      | Repaso Python (Librerías) |
 | 2      | 24/04    | 2      | Representación numérica y complejidad |
 | 3      | 29/04    | 2      | Errores: redondeo, truncamiento, sustracción cancelativa, precisión de la máquina |
-| 3      | 01/05    | 3      | Ecuaciones de una variable: Algoritmo de la bisección y punto fijo |
-| 4      | 06/05    | 3      | Ecuaciones de una variable: Algoritmo de la secante |
-| 4      | 08/05    | 3      | Ecuaciones de una variable: Algoritmo de Newton-Raphson |
+| 3      | 01/05    | 3      | *Festivo*|
+| 4      | 06/05    | 3      | Ecuaciones de una variable: Algoritmo de la bisección y punto fijo |
+| 4      | 08/05    | 3      | Ecuaciones de una variable: Algoritmo de la secante y Newton-Raphson |
 | 5      | 13/05    | 3      | Ecuaciones trascendentales y raíces |
 | 5      | 15/05    | -      | <span style="color:red">Parcial I (Unidades 1, 2 y 3)</span> |
 | 6      | 20/05    | 4      | Interpolación: Lineal y Polinomios de Lagrange |
@@ -34,21 +34,19 @@ nav_order: 3
 | 9      | 12/06    | 5      | Integración numérica: Integrales impropias y múltiples |
 | 10     | 17/06    | 5      | Integración numérica: Método de von Neumann para integrales (Monte Carlo) |
 | 10     | 19/06    | -      | <span style="color:red">Parcial II (Unidades 4 y 5)</span> |
-| 11     | 09/07    | 6      | Álgebra lineal y matrices en Python |
-| 11     | 11/07    | 6      | Solución de sistemas de ecuaciones lineales (Cramer, Eliminación Gaussiana) - Gauss Jordan |
-| 12     | 16/07    | 6      | Método de Factorización LU e iterativos Jacobi y Gauss-Seidel |
-| 12     | 18/07    | 6      | Matrices complejas, hermiticidad, autovalores y autovectores |
-| 13     | 23/07    | 7      | Ecuaciones Diferenciales: Método de Euler |
-| 13     | 25/07    | 7      | Ecuaciones Diferenciales: Método de Runge-Kutta |
-| 14     | 30/07    | 7      | Ecuaciones Diferenciales de orden superior |
-| 14     | 01/08    | 7      | Ecuaciones Diferenciales de orden superior |
-| 15     | 06/08    | 8      | Estadística: Números aleatorios |
-| 15     | 08/08    | 8      | Estadística: Regresión lineal |
-| 16     | 13/08    | 8      | Estadística: Regresión no lineal |
-| 16     | 15/08    | -      | <span style="color:red">Parcial III (Unidades 6, 7 y 8)</span> |
-| 17     | 20/08    | -      | -- |
-| 17     | 22/08    | -      | Entrega y sustentación de proyectos |
-
+| 11     | 11/07    | 6      | Álgebra lineal y matrices en Python |
+| 12     | 15/07    | 6      | Solución de sistemas de ecuaciones lineales (Cramer, Eliminación Gaussiana) - Gauss Jordan |
+| 12     | 17/07    | 6      | Método de Factorización LU e iterativos Jacobi y Gauss-Seidel |
+| 13     | 22/07    | 6      | Matrices complejas, hermiticidad, autovalores y autovectores |
+| 13     | 24/07    | 7      | Ecuaciones Diferenciales: Método de Euler |
+| 14     | 29/07    | 7      | Ecuaciones Diferenciales: Método de Runge-Kutta |
+| 14     | 31/07    | 7      | Ecuaciones Diferenciales de orden superior |
+| 15     | 05/08    | 7      | Ecuaciones Diferenciales de orden superior |
+| 15     | 07/08    | 8      | *Festivo* |
+| 16     | 12/08    | 8      | Estadística: Números aleatorios|
+| 16     | 14/08    | 8      | Estadística: Regresión lineal y no lineal |
+| 17     | 19/08    | -      | <span style="color:red">Parcial III (Unidades 6, 7 y 8)</span> |
+| 17     | 21/08    | -      | Entrega y sustentación de proyectos |
 
 
 ## Anteproyecto
