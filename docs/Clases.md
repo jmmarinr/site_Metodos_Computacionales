@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 {: .warning }
-> Esta sección se actualizará con las clases, actividades y laboratorios del curso. Debe estar atento a las fechas de entrega.
+> Esta sección se actualizará con las clases, actividades y talleres. Debe estar atento a las fechas de entrega.
 
 # Unidad 1: Introducción a Python
 
@@ -17,7 +17,9 @@ nav_order: 3
 
 * 📓 [Introducción a Pandas](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Librerias/Introduccion_a_Pandas.ipynb)
 
+* 💻 [Taller Básicos](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Basics/Taller_basicos.ipynb)
 
+* 💻 [Taller Librerías](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Librerias/Taller_librerias.ipynb)
 
 ---
 ## Actividades unidad 1
@@ -26,10 +28,11 @@ nav_order: 3
 
 * ⚠️ [Actividad 2: Modelación y uso de librerias](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Librerias/Actividad02_Librerias.ipynb)
 
-[Enlace alternativo](https://github.com/jmmarinr/ComputationalMethods/blob/master/Librerias/Actividad02_Librerias.ipynb)  Actividad 02
 
 ---
 
 # Unidad 2: Representación númerica y errores
 
 * 📓 [Representación númerica](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Numeros_Errores/Representaci%C3%B3n_n%C3%BAmerica.ipynb)
+
+* 📓 [Teoría de errores](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Numeros_Errores/Teoria_de_errores.ipynb)

@@ -9,7 +9,7 @@ nav_order: 4
 
 # Unidad 1: Introducción python y librerias
 
-* 📊 [Laboratorio 1]()
+* 📊 [Laboratorio 1](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Labs/Laboratorio_1.ipynb)
 
 # Unidad 2: Representación númerica y errores
 
