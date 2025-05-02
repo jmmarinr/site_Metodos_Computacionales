@@ -37,6 +37,9 @@ nav_order: 3
 
 * 📓 [Teoría de errores](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Numeros_Errores/Teoria_de_errores.ipynb)
 
+---
 ## Actividad unidad 2
 
 * ⚠️ [Actividad 3: Errores](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Numeros_Errores/Actividad03_Convergencia_Truncamiento.ipynb)
+
+---
