@@ -36,3 +36,7 @@ nav_order: 3
 * 📓 [Representación númerica](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Numeros_Errores/Representaci%C3%B3n_n%C3%BAmerica.ipynb)
 
 * 📓 [Teoría de errores](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Numeros_Errores/Teoria_de_errores.ipynb)
+
+## Actividad unidad 2
+
+* ⚠️ [Actividad 3: Errores](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Numeros_Errores/Actividad03_Convergencia_Truncamiento.ipynb)
