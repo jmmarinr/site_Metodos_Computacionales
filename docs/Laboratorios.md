@@ -13,6 +13,6 @@ nav_order: 4
 
 # Unidad 2: Representación númerica y errores
 
-* 📊 [Laboratorio 2]()
+* 📊 [Laboratorio 2](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Labs/Laboratorio_2.ipynb)
 
 
