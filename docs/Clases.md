@@ -37,6 +37,8 @@ nav_order: 3
 
 * 📓 [Teoría de errores](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Numeros_Errores/Teoria_de_errores.ipynb)
 
+* 💻 [Taller Representación numérica y errores](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Numeros_Errores/Taller_rep_numerica_errores.ipynb)
+
 ---
 ## Actividad unidad 2
 
