@@ -42,5 +42,9 @@ nav_order: 3
 
 * ⚠️ [Actividad 3: Errores](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Numeros_Errores/Actividad03_Convergencia_Truncamiento.ipynb)
 
-* Test
 ---
+
+# Unidad 3: Raíces de funciones
+
+* 📓 [Bisección y punto fijo](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Raices/Raices_Biseccion_PuntoFijo.ipynb)
+
