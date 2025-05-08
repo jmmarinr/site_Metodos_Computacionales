@@ -10,6 +10,13 @@ Semestre: 2025-1
 
 ---
 
+{: .warning }
+> **Primer parcial próximo jueves 15 de mayo (unidades 1, 2 y 3)**
+
+---
+
+---
+
 {: .highlight }
 > **Profesor**: Juan Marcos Marín Ramírez [📧 marcos.marin@udea.edu.co](mailto:marcos.marin@udea.edu.co)
 
