@@ -13,7 +13,9 @@ Semestre: 2025-1
 {: .warning }
 > **Primer parcial próximo jueves 15 de mayo (unidades 1, 2 y 3)**
 
----
+
+{: .note }
+> **Entrega de Actividades 1, 2 y 3 hasta el 15 de mayo (antes del parcial)**
 
 ---
 

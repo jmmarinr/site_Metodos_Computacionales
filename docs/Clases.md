@@ -50,3 +50,10 @@ nav_order: 3
 
 * 📓 [Bisección y punto fijo](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Raices/Raices_Biseccion_PuntoFijo.ipynb)
 
+* 📓 [Newton-Raphson y Secante](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Raices/Newton_Raphson_Secante.ipynb)
+
+---
+
+## Actividad unidad 3
+* ⚠️ [Actividad 4: Raíces de funciones](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Raices/Actividad04_Raices.ipynb)
+
