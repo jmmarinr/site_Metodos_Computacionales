@@ -5,7 +5,11 @@ nav_order: 4
 ---
 
 {: .warning }
-> Esta sección se actualizará con los laboratorios del curso. Debe estar atento a las fechas de entrega.
+> **Entrega de Laboratorios 1 y 2 hasta el lunes 19 de mayo a las 4pm**
+
+{: .warning }
+> **Entrega del Laboratorio 3 hasta el lunes 26 de mayo a las 4pm**
+
 
 # Unidad 1: Introducción python y librerias
 
@@ -15,4 +19,7 @@ nav_order: 4
 
 * 📊 [Laboratorio 2](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Labs/Laboratorio_2.ipynb)
 
+# Unidad 3: Raíces
+
+* 📊 [Laboratorio 3](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Labs/Laboratorio_3.ipynb)
 

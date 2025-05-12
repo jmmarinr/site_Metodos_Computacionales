@@ -52,6 +52,8 @@ nav_order: 3
 
 * 📓 [Newton-Raphson y Secante](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Raices/Newton_Raphson_Secante.ipynb)
 
+* 💻 [Taller Raices](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Raices/Taller_raices.ipynb)
+
 ---
 
 ## Actividad unidad 3
