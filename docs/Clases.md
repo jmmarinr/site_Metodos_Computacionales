@@ -74,6 +74,6 @@ nav_order: 3
 ---
 
 ## Actividad unidad 4
-* ⚠️ [Actividad 5: Interpolación](https://github.com/jmmarinr/ComputationalMethods/blob/master/Interpolacion/Actividad05_Interpolacion.ipynb) <div style="color: red;">
+* ⚠️ [Actividad 5: Interpolación](https://github.com/jmmarinr/ComputationalMethods/blob/master/Interpolacion/Actividad05_Interpolacion.ipynb) <span style="color: red;">
 ❗ Entregar hasta el 5 de junio
-</div>
+</span>
