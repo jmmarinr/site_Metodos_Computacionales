@@ -26,3 +26,8 @@ nav_order: 4
 ❗ Entregar hasta el 26 de mayo
 </span>
 
+# Unidad 4: Interpolación
+
+* 📊 [Laboratorio 4](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Labs/Laboratorio_4.ipynb) <span style="color: red;">
+❗ Entregar hasta el 9 de junio
+</span>
