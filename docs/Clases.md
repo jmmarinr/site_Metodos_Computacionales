@@ -59,7 +59,9 @@ nav_order: 3
 ---
 
 ## Actividad unidad 3
-* ⚠️ [Actividad 4: Raíces de funciones](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Raices/Actividad04_Raices.ipynb)
+* ⚠️ [Actividad 4: Raíces de funciones](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Raices/Actividad04_Raices.ipynb) <span style="color: red;">
+❗ Entregar hasta el 1 de junio
+</span>
 
 ---
 
@@ -70,6 +72,8 @@ nav_order: 3
 * 📓 [Newton (Diferencias divididas) y Hermite](https://github.com/jmmarinr/ComputationalMethods/blob/master/Interpolacion/Newton_Hermite.ipynb)
 
 * 📓 [Introducción a Sympy](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Librerias/Introduccion_Sympy.ipynb)
+
+* 📓 [Interpolación con Scipy](https://github.com/jmmarinr/ComputationalMethods/blob/master/Interpolacion/Interpolacion_SciPy.ipynb)
 
 * 💻 [Taller Interpolación](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Interpolacion/Taller_interpolaci%C3%B3n.ipynb)
 
