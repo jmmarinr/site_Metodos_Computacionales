@@ -11,11 +11,11 @@ Semestre: 2025-1
 ---
 
 {: .warning }
-> **Primer parcial próximo jueves 15 de mayo (unidades 1, 2 y 3)**
+> **Segundo parcial próximo jueves 19 de junio (unidades 4 y 5)**
 
 
-{: .note }
-> **Entrega de Actividades 1, 2 y 3 hasta el 15 de mayo (antes del parcial)**
+<!-- {: .note }
+> **Entrega de Actividades 1, 2 y 3 hasta el 15 de mayo (antes del parcial)** -->
 
 ---
 
@@ -31,7 +31,7 @@ Semestre: 2025-1
 ## Horarios Asesoría
 
 {: .new}
-> Miércoles o viernes 9 a 10 am en el **6-323**
+> Miércoles 9 a 10 am en el **6-323**
 
 ## <img src="https://github.com/fluidicon.png" alt="GitHub Icon" width="30"/> Repositorios
 
