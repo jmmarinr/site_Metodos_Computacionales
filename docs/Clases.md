@@ -75,6 +75,8 @@ nav_order: 3
 
 * 📓 [Interpolación con Scipy](https://github.com/jmmarinr/ComputationalMethods/blob/master/Interpolacion/Interpolacion_SciPy.ipynb)
 
+* 📓 [Cubic Splines](https://github.com/jmmarinr/ComputationalMethods/blob/master/Interpolacion/Interpolacion_CubicSplines.ipynb)
+
 * 💻 [Taller Interpolación](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Interpolacion/Taller_interpolaci%C3%B3n.ipynb)
 
 ---
