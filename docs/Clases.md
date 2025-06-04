@@ -83,5 +83,19 @@ nav_order: 3
 
 ## Actividad unidad 4
 * ⚠️ [Actividad 5: Interpolación](https://github.com/jmmarinr/ComputationalMethods/blob/master/Interpolacion/Actividad05_Interpolacion.ipynb) <span style="color: red;">
-❗ Entregar hasta el 5 de junio
+❗ Entregar hasta el 8 de junio
+</span>
+
+---
+
+# Unidad 5: Cálculo númerico
+
+* 📓 [Diferenciación](https://github.com/jmmarinr/ComputationalMethods/blob/master/Calculo/Diferenciacion_Numerica.ipynb)
+
+---
+
+# Actividades unidad 5
+
+* ⚠️ [Actividad 6: Diferenciación](https://github.com/jmmarinr/ComputationalMethods/blob/master/Calculo/Actividad_06_Diferenciacio%CC%81n.ipynb) <span style="color: red;">
+❗ Entregar hasta el 10 de junio
 </span>
