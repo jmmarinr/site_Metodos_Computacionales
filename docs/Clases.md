@@ -91,6 +91,7 @@ nav_order: 3
 # Unidad 5: Cálculo númerico
 
 * 📓 [Diferenciación](https://github.com/jmmarinr/ComputationalMethods/blob/master/Calculo/Diferenciacion_Numerica.ipynb)
+* 📓 [Métodos de Newton-Cotes](https://github.com/jmmarinr/ComputationalMethods/blob/master/Calculo/Integracion_Newton_Cotes.ipynb)
 
 ---
 
