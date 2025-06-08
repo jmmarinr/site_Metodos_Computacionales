@@ -31,3 +31,9 @@ nav_order: 4
 * 📊 [Laboratorio 4](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Labs/Laboratorio_4.ipynb) <span style="color: red;">
 ❗ Entregar hasta el 9 de junio
 </span>
+
+# Unidad 5: Cálculo Numérico
+
+* 📊 [Laboratorio 5](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Labs/Laboratorio_5.ipynb) <span style="color: red;">
+❗ Entregar hasta el 20 de junio
+</span>
