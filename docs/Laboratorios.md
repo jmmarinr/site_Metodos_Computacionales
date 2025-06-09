@@ -4,8 +4,8 @@ title: Laboratorios
 nav_order: 4
 ---
 
-{: .warning }
-> **La clase del lunes 26 de mayo será para revisar el notebook en la sección de clases llamado "Taller Interpolación" y trabajo independiente en los laboratorios pendientes.** Las dudas que tengan en este espacio las pueden escribir al correo y en caso de ser necesario se puede programar una reunión de meet. 
+{: .important }
+> Son en total 8 laboratorios
 
 
 # Unidad 1: Introducción python y librerias
@@ -29,11 +29,11 @@ nav_order: 4
 # Unidad 4: Interpolación
 
 * 📊 [Laboratorio 4](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Labs/Laboratorio_4.ipynb) <span style="color: red;">
-❗ Entregar hasta el 9 de junio
+❗ Entregar hasta el 16 de junio
 </span>
 
 # Unidad 5: Cálculo Numérico
 
 * 📊 [Laboratorio 5](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Labs/Laboratorio_5.ipynb) <span style="color: red;">
-❗ Entregar hasta el 20 de junio
+❗ Entregar hasta el 18 de julio
 </span>
