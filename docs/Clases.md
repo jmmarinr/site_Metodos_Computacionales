@@ -92,6 +92,7 @@ nav_order: 3
 
 * 📓 [Diferenciación](https://github.com/jmmarinr/ComputationalMethods/blob/master/Calculo/Diferenciacion_Numerica.ipynb)
 * 📓 [Métodos de Newton-Cotes](https://github.com/jmmarinr/ComputationalMethods/blob/master/Calculo/Integracion_Newton_Cotes.ipynb)
+* 📓 [Cuadratura Gaussiana](https://github.com/jmmarinr/ComputationalMethods/blob/master/Calculo/Integraci%C3%B3n_CuadraturaGaussiana.ipynb)
 * 💻 [Taller 1 Cálculo numérico](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Calculo/Taller_c%C3%A1lculo.ipynb)
 
 ---
@@ -99,5 +100,9 @@ nav_order: 3
 # Actividades unidad 5
 
 * ⚠️ [Actividad 6: Diferenciación](https://github.com/jmmarinr/ComputationalMethods/blob/master/Calculo/Actividad_06_Diferenciacio%CC%81n.ipynb) <span style="color: red;">
-❗ Entregar hasta el 10 de junio
+❗ Entregar hasta el 14 de junio
+</span>
+
+* ⚠️ [Actividad 7: Integración](https://github.com/jmmarinr/ComputationalMethods/blob/master/Calculo/Actividad_07_Integraci%C3%B3n.ipynb) <span style="color: red;">
+❗ Entregar hasta el 13 de julio
 </span>
