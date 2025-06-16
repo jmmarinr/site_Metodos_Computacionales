@@ -95,6 +95,7 @@ nav_order: 3
 * 📓 [Cuadratura Gaussiana](https://github.com/jmmarinr/ComputationalMethods/blob/master/Calculo/Integraci%C3%B3n_CuadraturaGaussiana.ipynb)
 * 📓 [Integrales impropias y múltiples](https://github.com/jmmarinr/ComputationalMethods/blob/master/Calculo/Impropias_Multiples.ipynb)
 * 💻 [Taller 1 Cálculo numérico](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Calculo/Taller_c%C3%A1lculo.ipynb)
+* 💻 [Taller 2 Cálculo numérico](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Calculo/Taller_2_c%C3%A1lculo.ipynb)
 
 ---
 
