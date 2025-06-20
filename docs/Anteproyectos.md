@@ -1,3 +1,4 @@
+---
 layout: default
 title: Anteproyecto
 nav_order: 6
