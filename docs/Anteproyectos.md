@@ -9,7 +9,7 @@ nav_order: 6
 Su anteproyecto debe ser conciso (máximo 3 páginas con mínimo 2 referencias) y contener las siguientes secciones:
 
 1.  **Título del Proyecto:** Un título claro y descriptivo.
-2.  **Integrantes:** Nombre completo y código de cada estudiante.
+2.  **Integrantes:** Nombre completo e identifación de cada integrante.
 3.  **Descripción del Problema:**
     * Presenten el problema que desean resolver o explorar (con ecuaciones o conceptos relevantes).
     * Expliquen por qué este problema es relevante o interesante dentro de la Física y/o Astronomía.
