@@ -35,5 +35,5 @@ nav_order: 4
 # Unidad 5: Cálculo Numérico
 
 * 📊 [Laboratorio 5](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Labs/Laboratorio_5.ipynb) <span style="color: red;">
-❗ Entregar hasta el 18 de julio
+❗ Entregar hasta el 21 de julio
 </span>
