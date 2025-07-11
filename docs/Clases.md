@@ -107,7 +107,7 @@ nav_order: 3
 </span>
 
 * ⚠️ [Actividad 7: Integración](https://github.com/jmmarinr/ComputationalMethods/blob/master/Calculo/Actividad_07_Integraci%C3%B3n.ipynb) <span style="color: red;">
-❗ Entregar hasta el 13 de julio
+❗ Entregar hasta el 21 de julio
 </span>
 
 ---
