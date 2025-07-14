@@ -115,4 +115,6 @@ nav_order: 3
 # Unidad 6: Álgebra Lineal
 
 * 📓 [Resumen Álgebra Lineal](https://github.com/jmmarinr/ComputationalMethods/blob/master/Algebra_Lineal/Resumen_Algebra_Lineal.ipynb)
+* 💻 [Taller 1 Álgebra Lineal](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Algebra_Lineal/Taller_1_%C3%81lgebra_Lineal.ipynb)
+
 
