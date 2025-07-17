@@ -100,7 +100,7 @@ nav_order: 3
 
 ---
 
-# Actividades unidad 5
+## Actividades unidad 5
 
 * ⚠️ [Actividad 6: Diferenciación](https://github.com/jmmarinr/ComputationalMethods/blob/master/Calculo/Actividad_06_Diferenciacio%CC%81n.ipynb) <span style="color: red;">
 ❗ Entregar hasta el 14 de junio
