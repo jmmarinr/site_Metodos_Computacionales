@@ -37,3 +37,9 @@ nav_order: 4
 * 📊 [Laboratorio 5](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Labs/Laboratorio_5.ipynb) <span style="color: red;">
 ❗ Entregar hasta el 21 de julio
 </span>
+
+# Unidad 6: Álgebra Lineal
+
+* 📊 [Laboratorio 6](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Labs/Laboratorio_6.ipynb) <span style="color: red;">
+❗ Entregar hasta el 4 de agosto
+</span>

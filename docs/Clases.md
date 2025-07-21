@@ -115,7 +115,8 @@ nav_order: 3
 # Unidad 6: Álgebra Lineal
 
 * 📓 [Resumen Álgebra Lineal](https://github.com/jmmarinr/ComputationalMethods/blob/master/Algebra_Lineal/Resumen_Algebra_Lineal.ipynb)
-* 💻 [Taller 1 Álgebra Lineal](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Algebra_Lineal/Taller_1_%C3%81lgebra_Lineal.ipynb)
 * 📓 [Sistemas de Ecuaciones - Eliminación Gaussiana](https://github.com/jmmarinr/ComputationalMethods/blob/master/Algebra_Lineal/Sistemas_Ecuaciones_Gauss_Eliminacion.ipynb)
 * 📓 [Gauss-Jordan, Descomposición LU, Iterativos](https://github.com/jmmarinr/ComputationalMethods/blob/master/Algebra_Lineal/Gauss_Jordan_LU_Iterativos.ipynb)
+* 💻 [Taller 1 Álgebra Lineal](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Algebra_Lineal/Taller_1_%C3%81lgebra_Lineal.ipynb)
+* 💻 [Taller 2 Álgebra Lineal](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Algebra_Lineal/Taller_2_%C3%81lgebra_Lineal.ipynb)
 
