@@ -133,3 +133,4 @@ nav_order: 3
 # Unidad 7: Ecuaciones Diferenciales Ordinarias
 
 * 📓 [Método de Euler](https://github.com/jmmarinr/ComputationalMethods/blob/master/EDO/Euler_Primer_Segundo_Orden.ipynb)
+* 💻 [Taller 1 EDO](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/EDO/Taller_1_EDO.ipynb)
