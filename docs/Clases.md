@@ -125,7 +125,7 @@ nav_order: 3
 
 ## Actividad Unidad 6
 * ⚠️ [Actividad 8: Algebra lineal y Matrices](https://github.com/jmmarinr/ComputationalMethods/blob/master/Algebra_Lineal/Actividad_08_Algrebra_Matrices.ipynb) <span style="color: red;">
-❗ Entregar hasta el 3 de agosto
+❗ Entregar hasta el 10 de agosto
 </span>
 
 ---
