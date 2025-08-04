@@ -136,3 +136,4 @@ nav_order: 3
 * 📓 [Método de Euler Orden Superior - RK2](https://github.com/jmmarinr/ComputationalMethods/blob/master/EDO/Euler_Vectorial_RK2.ipynb)
 * 📓 [Runge-Kutta 4 - Solve_IVP](https://github.com/jmmarinr/ComputationalMethods/blob/master/EDO/RK4_SolveIvp.ipynb)
 * 💻 [Taller 1 EDO](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/EDO/Taller_1_EDO.ipynb)
+* 💻 [Taller 2 EDO](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/EDO/Taller_2_EDO.ipynb)

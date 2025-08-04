@@ -41,5 +41,11 @@ nav_order: 4
 # Unidad 6: Álgebra Lineal
 
 * 📊 [Laboratorio 6](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Labs/Laboratorio_6.ipynb) <span style="color: red;">
-❗ Entregar hasta el 4 de agosto
+❗ Entregar hasta el 13 de agosto
+</span>
+
+# Unidad 7: Ecuaciones Diferenciales Ordinarias
+
+* 📊 [Laboratorio 6](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Labs/Laboratorio_7.ipynb) <span style="color: red;">
+❗ Entregar hasta el 13 de agosto
 </span>
