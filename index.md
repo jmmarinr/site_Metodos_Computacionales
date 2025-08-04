@@ -11,7 +11,7 @@ Semestre: 2025-1
 ---
 
 {: .warning }
-> **Segundo parcial próximo jueves 14 de agosto (unidades 6 y 7)**
+> **Tercer parcial próximo jueves 14 de agosto (unidades 6 y 7)**
 
 
 <!-- {: .note }
