@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 {: .important }
-> Son en total 8 laboratorios
+> Son en total 7 laboratorios
 
 
 # Unidad 1: Introducción python y librerias
