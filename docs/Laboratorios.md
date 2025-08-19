@@ -47,5 +47,5 @@ nav_order: 4
 # Unidad 7: Ecuaciones Diferenciales Ordinarias
 
 * 📊 [Laboratorio 7](https://nbviewer.org/github/jmmarinr/ComputationalMethods/blob/master/Labs/Laboratorio_7.ipynb) <span style="color: red;">
-❗ Entregar hasta el 19 de agosto
+❗ Entregar hasta el 21 de agosto
 </span>
